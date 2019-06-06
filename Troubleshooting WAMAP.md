@@ -46,7 +46,7 @@ Knowing when to use fractions and when to use decimals is an important skill in 
 WAMAP is designed as a dynamic program that can not only check and accept answers, but perform some calculations for you. This feature an sometimes be used to avoid possible errors. For example, let's say that you can calculate the answer to a question by subtracting $\frac{1}{4}$ from $\frac{1}{3}$. If the questions specifically asks for your answer as a fraction, decmial, or number, you will need to do this calculation on your own. However, if no specific format is given, it is frequantly possible to simply enter "$\frac{1}{3} - \frac{1}{4}$" as your answer, and WAMAP will be able to do the subtraction for you, thus eliminating possible rounding and/or arithmetic errors.
 
 ### d. Trig Functions of Degree>1
-
+Some questions may have answers in the forma of a trigonometric function whose degree is greater than 
 ### e. Inverse Trig Functions
 
 ### f. Rounding  
@@ -68,5 +68,5 @@ WAMAP is designed as a dynamic program that can not only check and accept answer
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzQxMjM5XX0=
+eyJoaXN0b3J5IjpbNTE1MzcxODk2XX0=
 -->
