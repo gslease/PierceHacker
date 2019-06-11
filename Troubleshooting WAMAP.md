@@ -48,9 +48,9 @@ Knowing when to use fractions and when to use decimals is an important skill in 
 WAMAP is designed as a dynamic program that can not only check and accept answers, but perform some calculations for you. This feature an sometimes be used to avoid possible errors. For example, let's say that you can calculate the answer to a question by subtracting 1/4 from 1/3. If the questions specifically asks for your answer as a fraction, decimal, or number, you will need to do this calculation on your own. However, if no specific format is given, it is frequently possible to simply enter "1/3-1/4" as your answer, and WAMAP will be able to do the subtraction for you, thus eliminating possible rounding and/or arithmetic errors.
 
 ### d. Trig Functions of Degree>1
-Another common requirement is to enter trigonometric functions whose degree is greater than one. For example, we may need to enter an answer like $\sin^2{(x)}$.  The impulse here may be to enter "sin^2(x)" into WAMAP, however this will not be interpreted correctly. The best way to go about entering an answer like this is "(sin(x))^2."
+Another common requirement is to enter trigonometric functions whose degree is greater than one. For example, we may need to enter an answer like ![equation](https://latex.codecogs.com/png.latex?%5Csin%5E2%7B%28x%29%7D).  The impulse here may be to enter "sin^2(x)" into WAMAP, however this will not be interpreted correctly. The best way to go about entering an answer like this is "(sin(x))^2."
 ### e. Inverse Trig Functions
-Now that we know how to enter $\sin^2{(x)}$, let's take a look at how to enter an inverse trig function like arc tangent, cosine inverse, etc. In most math classes, we could use expressions such as "$\arctan{(x)}$" and "$\tan^{-1}{(x)}$" interchangeably. However, WAMAP will only accept one of these. Entering "(tan(x))^-1" will not work. Regardless of the trig function in question, the inverse must be entered as the "arc" version (e.g. arccos(x), arctan(x), arccsc(x), etc).
+Now that we know how to enter ![equation](https://latex.codecogs.com/png.latex?%5Csin%5E2%7B%28x%29%7D), let's take a look at how to enter an inverse trig function like arc tangent, cosine inverse, etc. In most math classes, we could use expressions such as "$\arctan{(x)}$" and "$\tan^{-1}{(x)}$" interchangeably. However, WAMAP will only accept one of these. Entering "(tan(x))^-1" will not work. Regardless of the trig function in question, the inverse must be entered as the "arc" version (e.g. arccos(x), arctan(x), arccsc(x), etc).
 ### f. Rounding  
 Moving back to numerical answers for a moment, let's talk about rounding. Rounding can be a bit of a challenge in WAMAP due to the variety of authors of questions. Some authors may specifically say "round to the nearest 3 decimal places," or "round to the nearest whole number," while others may not be quite as straightforward. If the question does specify, always round exactly as far as the question requires. If the question does not specify how far to round your answer, it is best not to round at all. In cases like this, you'll want to either type out as many digits as your calculating device gives you, or if possible, simply enter an exact answer. Exact vs. approximate answers will be discussed in the next section.
 ### g. Question Phrasing
@@ -69,7 +69,7 @@ In Calculus II, the concept of an indefinite integral is introduced. A part of c
 Though most questions work fine, you may occasionally run into a question that seems to not be able to accept a correct answer (see section 3b for an example). In cases like this, it is possible that the question has an error in its coding. If you encounter this issue, it is important to contact your instructor about it, as they may be able to contact the author to correct the issue.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM4NDc1ODUsLTEyNjQyODQwNDMsMz
-g2OTM2OTczLDM4NjkzNjk3MywtNDk2MDIzNDUsMzg2OTM2OTcz
-XX0=
+eyJoaXN0b3J5IjpbLTcwODQ3NzQwNSwtMTI2NDI4NDA0MywzOD
+Y5MzY5NzMsMzg2OTM2OTczLC00OTYwMjM0NSwzODY5MzY5NzNd
+fQ==
 -->
