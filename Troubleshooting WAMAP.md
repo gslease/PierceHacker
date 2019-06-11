@@ -35,11 +35,11 @@ Many questions will also feature a preview button next to the answer submission 
 ### a. Parentheses: When, Where, and How Many?
 Parentheses are a big deal in WAMAP, and in mathematics in general. There are a lot of situations in which parentheses can make or break your answer. Sometimes when we write down an answer on paper, it may make sense to skip the seemingly repetitive parentheses, but when it comes to electronic answer submission, they are vital. As a general rule of thumb, more parentheses is typically a good idea, but there are a lot of exceptions to this. Let's take a look at an answer that might make sense to us without parentheses, but that WAMAP sees as something completely different.  
 
-[pic]  
+![equation](https://github.com/gslease/PierceHacker/blob/master/parentheses_wrong.png)  
 
 In this example, not including parentheses in the numerator results in WAMAP completely misinterpreting the answer. Now let's check out that same problem, this time with all of the necessary parentheses.  
 
-[pic]  
+![equation](https://github.com/gslease/PierceHacker/blob/master/parentheses_right.png)  
 
 ### b. Fractions vs. Decimals
 Knowing when to use fractions and when to use decimals is an important skill in WAMAP. Some questions will explicitly state whether they require an answer as one r the other, but many others will not. In general, it is often not a bad idea to use fractions, because they are in general more accurate. That being said, the most important thing when given numerical answers is to check whether or not the question specifies a format.
