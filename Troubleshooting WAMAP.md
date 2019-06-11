@@ -59,7 +59,7 @@ One of the most important parts of succeeding in WAMAP homework is the ability t
 ### a. MATH&141: Graphing
 Graphing on WAMAP can be a bit of a challenge, and there's not really a whole lot to see here, save for one piece of advise: the bigger the screen you can do problems like this on, the easier it is to get it right.
 ### b. MATH&142: Order of Terms in an Answer
-We've covered a few issues that we might run into trying to enter trig functions, but let's address one additional very rare problem that can arise in MATH&142. Occasionally, some problems may reject a correct answer due to the in which it was entered. For example, the correct answer might be may be "![equation](https://latex.codecogs.com/png.latex?3%5Ccos%7B%288x%29%7D&plus;1)," but the question responds that it is wrong. In cases like this, if you are sure of your answer, it may be worth trying to retype it as "![equation](https://latex.codecogs.com/png.latex?3%5Ccos%7B%288x%29%7D&plus;1)." If this works, contact your instructor as soon as possible, because this is an indicator that the problem is has an error in its coding. In reality, these answers are the same, and there is no mathematical rule that states one is preferable to the other. 
+We've covered a few issues that we might run into trying to enter trig functions, but let's address one additional very rare problem that can arise in MATH&142. Occasionally, some problems may reject a correct answer due to the in which it was entered. For example, the correct answer might be may be "![equation](https://latex.codecogs.com/png.latex?3%5Ccos%7B%288x%29%7D&plus;1)," but the question responds that it is wrong. In cases like this, if you are sure of your answer, it may be worth trying to retype it as "![equation](https://latex.codecogs.com/png.latex?1&plus;3%5Ccos%7B%288x%29%7D)." If this works, contact your instructor as soon as possible, because this is an indicator that the problem is has an error in its coding. In reality, these answers are the same, and there is no mathematical rule that states one is preferable to the other. 
 ### c. MATH&146: Why Does WAMAP Care About a One Ten-Thousandth of a Percent Error?
 A common problem you may come across in a WAMAP based Statistics class that tends to arise in the unit about hypothesis testing is that you may be penalized for seemingly negligible errors (e.g. being off by 0.0001). While this seems trivial, this small error is actually an indicator that you may have used the wrong test on your calculator. It is difficult to make a judgement about what type of error this is in the absence of a specific situation, but a good rule of thumb is to try using your second guess for a hypothesis test.
 
@@ -69,7 +69,7 @@ In Calculus II, the concept of an indefinite integral is introduced. A part of c
 Though most questions work fine, you may occasionally run into a question that seems to not be able to accept a correct answer (see section 3b for an example). In cases like this, it is possible that the question has an error in its coding. If you encounter this issue, it is important to contact your instructor about it, as they may be able to contact the author to correct the issue.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMTA5NzQ2LC0xMjY0Mjg0MDQzLDM4Nj
-kzNjk3MywzODY5MzY5NzMsLTQ5NjAyMzQ1LDM4NjkzNjk3M119
-
+eyJoaXN0b3J5IjpbMTI0MTc3MjU0NCwtMTI2NDI4NDA0MywzOD
+Y5MzY5NzMsMzg2OTM2OTczLC00OTYwMjM0NSwzODY5MzY5NzNd
+fQ==
 -->
