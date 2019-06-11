@@ -54,7 +54,7 @@ Now that we know how to enter ![equation](https://latex.codecogs.com/png.latex?%
 ### f. Rounding  
 Moving back to numerical answers for a moment, let's talk about rounding. Rounding can be a bit of a challenge in WAMAP due to the variety of authors of questions. Some authors may specifically say "round to the nearest 3 decimal places," or "round to the nearest whole number," while others may not be quite as straightforward. If the question does specify, always round exactly as far as the question requires. If the question does not specify how far to round your answer, it is best not to round at all. In cases like this, you'll want to either type out as many digits as your calculating device gives you, or if possible, simply enter an exact answer. Exact vs. approximate answers will be discussed in the next section.
 ### g. Question Phrasing
-One of the most important parts of succeeding in WAMAP homework is the ability to carefully read the entire question. Some questions may initially appear to be asking for one thing, but are actually asking for something entirely different. When in doubt, always reread the question. One of the most frequent examples of how skimming a question can be detrimental is actually directly related to the section above regarding rounding. Some questions will not accept a rounded answer; only exact answers are allowed. For example, say a question is asking us to find the exact circumference of a circle of radius 1. We could estimate the answer to this question via a decimal approximation, but this would not be exact. While an answer like "6.283185307" is very close to the exact answer, you really can't get more exact here than just "$2\pi$." 
+One of the most important parts of succeeding in WAMAP homework is the ability to carefully read the entire question. Some questions may initially appear to be asking for one thing, but are actually asking for something entirely different. When in doubt, always reread the question. One of the most frequent examples of how skimming a question can be detrimental is actually directly related to the section above regarding rounding. Some questions will not accept a rounded answer; only exact answers are allowed. For example, say a question is asking us to find the exact circumference of a circle of radius 1. We could estimate the answer to this question via a decimal approximation, but this would not be exact. While an answer like "6.283185307" is very close to the exact answer, you really can't get more exact here than just "![equation](https://latex.codecogs.com/png.latex?2%20%5Cpi)." 
 ## Section 3: Class Specific Issues
 ### a. MATH&141: Graphing
 Graphing on WAMAP can be a bit of a challenge, and there's not really a whole lot to see here, save for one piece of advise: the bigger the screen you can do problems like this on, the easier it is to get it right.
@@ -69,7 +69,7 @@ In Calculus II, the concept of an indefinite integral is introduced. A part of c
 Though most questions work fine, you may occasionally run into a question that seems to not be able to accept a correct answer (see section 3b for an example). In cases like this, it is possible that the question has an error in its coding. If you encounter this issue, it is important to contact your instructor about it, as they may be able to contact the author to correct the issue.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzODg4NTAwLC0xMjY0Mjg0MDQzLDM4Nj
-kzNjk3MywzODY5MzY5NzMsLTQ5NjAyMzQ1LDM4NjkzNjk3M119
-
+eyJoaXN0b3J5IjpbLTc0MTk0MTUxNCwtMTI2NDI4NDA0MywzOD
+Y5MzY5NzMsMzg2OTM2OTczLC00OTYwMjM0NSwzODY5MzY5NzNd
+fQ==
 -->
