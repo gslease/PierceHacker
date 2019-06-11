@@ -45,7 +45,7 @@ In this example, not including parentheses in the numerator results in WAMAP com
 Knowing when to use fractions and when to use decimals is an important skill in WAMAP. Some questions will explicitly state whether they require an answer as one r the other, but many others will not. In general, it is often not a bad idea to use fractions, because they are in general more accurate. That being said, the most important thing when given numerical answers is to check whether or not the question specifies a format.
 
 ### c. Numbers vs. Algebraic Functions
-WAMAP is designed as a dynamic program that can not only check and accept answers, but perform some calculations for you. This feature an sometimes be used to avoid possible errors. For example, let's say that you can calculate the answer to a question by subtracting $\frac{1}{4}$ from $\frac{1}{3}$. If the questions specifically asks for your answer as a fraction, decimal, or number, you will need to do this calculation on your own. However, if no specific format is given, it is frequently possible to simply enter "$\frac{1}{3} - \frac{1}{4}$" as your answer, and WAMAP will be able to do the subtraction for you, thus eliminating possible rounding and/or arithmetic errors.
+WAMAP is designed as a dynamic program that can not only check and accept answers, but perform some calculations for you. This feature an sometimes be used to avoid possible errors. For example, let's say that you can calculate the answer to a question by subtracting $\frac{1}{4}$ from $\frac{1}{3}$. If the questions specifically asks for your answer as a fraction, decimal, or number, you will need to do this calculation on your own. However, if no specific format is given, it is frequently possible to simply enter "1/3-1/4" as your answer, and WAMAP will be able to do the subtraction for you, thus eliminating possible rounding and/or arithmetic errors.
 
 ### d. Trig Functions of Degree>1
 Another common requirement is to enter trigonometric functions whose degree is greater than one. For example, we may need to enter an answer like $\sin^2{(x)}$.  The impulse here may be to enter "sin^2(x)" into WAMAP, however this will not be interpreted correctly. The best way to go about entering an answer like this is "(sin(x))^2."
@@ -69,6 +69,6 @@ In Calculus II, the concept of an indefinite integral is introduced. A part of c
 Though most questions work fine, you may occasionally run into a question that seems to not be able to accept a correct answer (see section 3b for an example). In cases like this, it is possible that the question has an error in its coding. If you encounter this issue, it is important to contact your instructor about it, as they may be able to contact the author to correct the issue.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2OTM2OTczLDM4NjkzNjk3MywtNDk2MD
-IzNDUsMzg2OTM2OTczXX0=
+eyJoaXN0b3J5IjpbLTEyNjQyODQwNDMsMzg2OTM2OTczLDM4Nj
+kzNjk3MywtNDk2MDIzNDUsMzg2OTM2OTczXX0=
 -->
