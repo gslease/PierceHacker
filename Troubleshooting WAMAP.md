@@ -1,6 +1,7 @@
 
 
 # Trouble Shooting WAMAP
+By Greg Slease
 ## Contents
 ### Introduction
 ### Section 1: General Tips and Tricks
